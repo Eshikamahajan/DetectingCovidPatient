@@ -1,6 +1,6 @@
 # Detecting Covid patients using Image classification
 
-#Disclaimer
+# Disclaimer
 This project is an attempt to classify COVID Patients from the dataset containing X-Ray images of normal patients and COVID infected patients.
 However the model is not accurate enough to be held responsible alone for the classification and hence I make no claim for the diagnostic performance of the model.
 For more information please visit https://github.com/ieee8023/covid-chestxray-dataset
